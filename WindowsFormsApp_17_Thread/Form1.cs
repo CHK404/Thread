@@ -91,8 +91,7 @@ namespace WindowsFormsApp_17_Thread
                         textBox1.Text += $"1: {sharedData}\r\n";
                     }
                 }
-            }
-            
+            } 
         }
 
         //2-2. 두 번째 스레드가 실행할 작업

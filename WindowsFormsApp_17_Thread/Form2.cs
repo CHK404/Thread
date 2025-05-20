@@ -9,6 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//my attempt
 namespace WindowsFormsApp_17_Thread
 {
     public partial class Form2 : Form
